@@ -1,0 +1,13 @@
+{
+  "name": "money-transfer-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "^2.3.0"
+  },
+  "dependencies": {
+    "@dasha.ai/sdk": "^0.3.0"
+  }
+}
